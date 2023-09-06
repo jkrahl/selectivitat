@@ -1,0 +1,318 @@
+[
+    {
+      "name": "Alemany",
+      "units": [
+        "Comprensió d'un text oral",
+        "Expressió escrita"
+      ]
+    },
+    {
+      "name": "Anàlisi musical",
+      "units": [
+        "Anàlisi musical",
+        "Formes musicals",
+        "Veus, instruments i textures",
+        "Elements musicals"
+      ]
+    },
+    {
+      "name": "Anglès",
+      "units": [
+        "Listening comprehension",
+        "Reading comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "name": "Biologia",
+      "units": [
+        "Ecologia",
+        "Microbiologia",
+        "Genètica mendeliana",
+        "Evolució",
+        "Biologia molecular (biomolècules i biotecnologia)",
+        "Immunologia",
+        "Metabolisme",
+        "Disseny experimental"
+      ]
+    },
+    {
+      "name": "Ciències de la terra i del medi ambient",
+      "units": [
+        "Atmosfera",
+        "Hidrosfera",
+        "Geodinàmica externa",
+        "Geodinàmica interna",
+        "Pedosfera",
+        "Recursos energètics i geològics",
+        "Gestió ambiental",
+        "Mapes i talls geològics"
+      ]
+    },
+    {
+      "name": "Cultura audiovisual",
+      "units": [
+        "Llenguatge audiovisual",
+        "Anàlisi d'imatge",
+        "Tipus de plans i angles",
+        "Gèneres fotogràfics",
+        "Guions il·lustrats",
+        "Gèneres i moviments cinematogràfics",
+        "Pel·lícules",
+        "Publicitat"
+      ]
+    },
+    {
+      "name": "Dibuix artístic",
+      "units": [
+        "El concepte i la història del dibuix",
+        "L'expressió gràfica i els seus recursos elementals",
+        "Dibuix i espai",
+        "La llum, el clarobscur i el color",
+        "La figura humana"
+      ]
+    },
+    {
+      "name": "Dibuix tècnic",
+      "units": [
+        "Geometria plana",
+        "Dièdric",
+        "Axonometria"
+      ]
+    },
+    {
+      "name": "Disseny",
+      "units": [
+        "Bidimensió",
+        "Tridimensió",
+        "Disseny industrial",
+        "Espai",
+        "Entorn"
+      ]
+    },
+    {
+      "name": "Economia de l'empresa",
+      "units": [
+        "La informació econòmica i financera de a l'empresa",
+        "Gestió financera",
+        "Direcció estratègica i creixement empresarial",
+        "El projecte empresarial",
+        "Preguntes tipus test"
+      ]
+    },
+    {
+      "name": "Electrotècnia",
+      "units": [
+        "Electricitat i magnetisme",
+        "Màquines elèctriques",
+        "Circuits i aplicacions"
+      ]
+    },
+    {
+      "name": "Física",
+      "units": [
+        "Camp gravitatori, planetes i satèl·lits",
+        "Camp elèctric",
+        "Camp magnètic",
+        "Electromagnetisme i inducció",
+        "Moviment harmònic simple, ones i so",
+        "Física relativista, quàntica i nuclear"
+      ]
+    },
+    {
+      "name": "Fonaments de les arts",
+      "units": [
+        "El segle xix",
+        "La primera meitat del segle xx",
+        "La segona meitat del segle xx",
+        "El fet artístic al segle xxi"
+      ]
+    },
+    {
+      "name": "Francès",
+      "units": [
+        "Expressió escrita",
+        "Comprensió d'un text oral",
+        "Comprensió lectora"
+      ]
+    },
+    {
+      "name": "Geografia",
+      "units": [
+        "Catalunya i espanya al món",
+        "Medi ambient i paisatges",
+        "Territori i activitats econòmiques",
+        "La població i el sistema urbà"
+      ]
+    },
+    {
+      "name": "Grec",
+      "units": [
+        "Expressió escrita",
+        "Comprensió d'un text oral",
+        "Comprensió lectora"
+      ]
+    },
+    {
+      "name": "Història",
+      "units": [
+        "La segona república",
+        "La guerra civil",
+        "El catalanisme polític",
+        "El franquisme",
+        "La restauració",
+        "La transició i la democràcia"
+      ]
+    },
+    {
+      "name": "Historia de l'art",
+      "units": [
+        "Època clàssica",
+        "Època medieval",
+        "Època moderna",
+        "Època contemporània i",
+        "Època contemporània ii"
+      ]
+    },
+    {
+      "name": "Història de la filosofia",
+      "units": [
+        "Plató",
+        "Nietzsche",
+        "Locke",
+        "Kant",
+        "Hume",
+        "Descartes",
+        "Mill"
+      ]
+    },
+    {
+      "name": "Italià",
+      "units": [
+        "Expressió escrita",
+        "Comprensió d'un text oral",
+        "Comprensió lectora"
+      ]
+    },
+    {
+      "name": "Literatura castellana",
+      "units": [
+        "Antología de la poesía del siglo de oro",
+        "Don juan tenorio, josé zorrilla",
+        "Luciérnagas, ana maría matute",
+        "Los pazos de ulloa, emilia pardo bazán",
+        "El caballero de omedo, lope de vega",
+        "Fuente ovejuna, lope de vega",
+        "Antología poética del siglo de oro",
+        "Don quijote de la mancha, miguel de cervantes",
+        "La celestina, fernando de rojas",
+        "Mi hermana elba y los altillos de brumal, cristina fernández cubas",
+        "La regenta, leopoldo alas clarín",
+        "La verdad sobre el caso savolta, eduardo mendoza",
+        "La vida es sueño, pedro calderón de la barca"
+      ]
+    },
+    {
+      "name": "Literatura catalana",
+      "units": [
+        "L'alegria que passa",
+        "Visions & Cants",
+        "Laura a la ciutat dels sants",
+        "Antígona",
+        "Feliçment, jo sóc una dona",
+        "Bruixa de dol"
+      ]
+    },
+    {
+      "name": "Llatí",
+      "units": [
+        "Morfosintaxi",
+        "Traducció",
+        "Expressions llatines",
+        "Civilització romana, patrimoni arqueològic i literatura"
+      ]
+    },
+    {
+      "name": "Llengua castellana",
+      "units": [
+        "Comprensión lectora",
+        "Sinónimos",
+        "Pronombres",
+        "Figuras retóricas",
+        "Lectura",
+        "Redacción",
+        "Tipos de texto",
+        "Formación de palabras",
+        "Incorreciones",
+        "Sintaxis",
+        "Pares mínimos",
+        "Verbos"
+      ]
+    },
+    {
+      "name": "Llengua catalana",
+      "units": [
+        "Comprensió lectora",
+        "Sinònims",
+        "Pronoms",
+        "Lectures",
+        "Expressió escrita",
+        "Sintaxi",
+        "Ortografia",
+        "Verbs",
+        "Fonètica",
+        "Formació de paraules"
+      ]
+    },
+    {
+      "name": "Matemàtiques",
+      "units": [
+        "Matrius i sistemes d'equacions lineals",
+        "Geometria de l'espai",
+        "Funcions i",
+        "Funcions ii",
+        "Funcions iii"
+      ]
+    },
+    {
+      "name": "Matemàtiques aplicades a les ciències socials",
+      "units": [
+        "Matrius",
+        "Sistemes",
+        "Programació lineal",
+        "Funcions i",
+        "Funcions ii",
+        "Funcions iii"
+      ]
+    },
+    {
+      "name": "Química",
+      "units": [
+        "Diagrama de fases",
+        "Termodinàmica",
+        "Cinètica química",
+        "Equilibri químic",
+        "Àcid-base, ph",
+        "Solubilitat, precipitació",
+        "Redox, piles i electròlisi",
+        "Estructura atòmica i enllaç, propietats periòdiques dels elements",
+        "Tècniques espectroscòpiques"
+      ]
+    },
+    {
+      "name": "Tecnologia industrial",
+      "units": [
+        "Principis de màquines, moments",
+        "Dinàmica de màquines: treball, energia i potència",
+        "Màquines tèrmiques",
+        "Oleohidràulica",
+        "Electromagnetisme i corrent altern",
+        "Màquines elèctriques",
+        "Sistemes digitals",
+        "Metrologia i normalització",
+        "Indústria metal·lúrgia, soldadura",
+        "Organització industrial",
+        "Propietats i assaigs"
+      ]
+    }
+  ]
